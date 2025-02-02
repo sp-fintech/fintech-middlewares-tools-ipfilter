@@ -1,0 +1,26 @@
+{
+	"name" : "IpFilter",
+	"display_name" : "IP Filter",
+	"description" : "This middleware is used to allow/block IP based access to an app.",
+	"module_type" : "middlewares",
+	"app_type" : "fintech",
+	"category" : "tools",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-fintech/fintech-middlewares-tools-ipfilter",
+	"class" : "Apps\\Fintech\\Middlewares\\IpFilter\\IpFilter",
+	"dependencies" : 
+	{
+		"core" : 
+		{
+			"name" : "Core",
+			"version" : "0.0.0-rc.7",
+			"repo" : "https://github.com/sp-framework/core"
+		},
+		"components" : [],
+		"packages" : [],
+		"middlewares" : [],
+		"views" : [],
+		"external" : []
+	},
+	"settings" : []
+}
