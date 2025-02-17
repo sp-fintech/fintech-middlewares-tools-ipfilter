@@ -5,7 +5,7 @@
 	"module_type" : "middlewares",
 	"app_type" : "fintech",
 	"category" : "tools",
-	"version" : "0.0.0",
+	"version" : "0.1.0",
 	"repo" : "https://github.com/sp-fintech/fintech-middlewares-tools-ipfilter",
 	"class" : "Apps\\Fintech\\Middlewares\\IpFilter\\IpFilter",
 	"dependencies" : 
